@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/shahbazsyed/Documents/CS Classes/CSC 447/hw1-3/src/main/scala/subtyping.scala:88:54: value toArray is not a member of (Int, Int, Int)[0m
+[0m[[0m[31merror[0m] [0m[0m    List ((a.getTotal(), b.getTotal(), c.getTotal()).toArray)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

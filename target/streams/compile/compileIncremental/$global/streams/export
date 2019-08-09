@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/shahbazsyed/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar -deprecation -feature -classpath /Users/shahbazsyed/Documents/CS Classes/CSC 447/hw1-3/target/scala-2.12/classes -unchecked /Users/shahbazsyed/Documents/CS Classes/CSC 447/hw1-3/src/main/scala/subtyping.scala

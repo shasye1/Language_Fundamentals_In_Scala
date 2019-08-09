@@ -1,0 +1,6 @@
+compile
+testOnly fp1tests
+~testOnly fp1tests
+compile
+~testOnly fp2tests
+~testOnly fp3tests
